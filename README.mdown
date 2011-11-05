@@ -1,7 +1,12 @@
-# Tumblr Theme Base (Haml Version)
+## Tumblr Theme Base (Haml Version)
 
-To help with Tumblr theme development, a Haml version of the [Tumblr base theme](http://www.tumblr.com/docs/en/custom_themes). It renders to nice, clean HTML.
+To help with Tumblr theme development for those allergic to straight HTML, here's a Haml version of the [Tumblr theme base](http://www.tumblr.com/docs/en/custom_themes). It renders to nice, clean HTML.
 
-Additions to the original Tumblr base:
+### Additions to the original Tumblr base:
 
 * A stylesheet link. After you [upload your CSS file](http://www.tumblr.com/themes/upload_static_file), place the generated file location here.
+
+### Forthcoming additions:
+
+* Search form
+* Pagination block
